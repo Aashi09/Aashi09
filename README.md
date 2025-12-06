@@ -72,6 +72,7 @@ I love transforming raw data into clear insights and building clean, structured 
 ---
 
 ## 🎓 Certifications
+you can view my certificates at: https://drive.google.com/drive/folders/1RdDc_JSpGFs_1qlw9TNNYFHyZKwBE7qW
 - Acquiring Data — *Accenture*  
 - Python for Data Analytics — *CodingWise*  
 
