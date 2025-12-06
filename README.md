@@ -15,29 +15,13 @@ I love transforming raw data into clear insights and building clean, structured 
 
 ## 🚀 Skills
 
-### 🔹 Programming
-- Python  
-- SQL  
-- Java  
+🔹 Programming - Python, SQL, Java
 
-### 🔹 Python Libraries
-- **Pandas**  
-- **NumPy**  
-- **Matplotlib**  
-- **Seaborn**
+🔹 Python Libraries - Pandas, Numpy, MatplotLib, Seaborn
 
-### 🔹 Tools & Frameworks
-- Tableau  
-- Power BI  
-- MS Excel  
-- Jupyter Notebook  
+🔹 Tools & Frameworks - Tableau, Power BI, Ms Excel, Jupyter Notebook
 
-### 🔹 Knowledge Areas
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Visualization & Reporting  
-- Computer Vision  
-- AI & ML Fundamentals  
+🔹 Knowledge Areas - Data Cleaning & Transformation, Exploratory Data Analysis (EDA), Visualisation and reporting, Web Scraping
 
 ---
 
