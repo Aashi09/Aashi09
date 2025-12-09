@@ -55,16 +55,32 @@ I love transforming raw data into clear insights and building clean, structured 
 
 ---
 
-## 🎓 Certifications
+## 🎓 Achivements
+
+- Data Visualisation- Empowering Business with Effective Insights: *TATA*
+- Data Analytics Essentials: *Cisco*
+- Acquiring Data: *Accenture*
+- Python for Data Analytics: *Coding Wise*
+- Graph Theory: *Algo University*
+
+
 you can view my certificates at: https://drive.google.com/drive/folders/1RdDc_JSpGFs_1qlw9TNNYFHyZKwBE7qW
-- Acquiring Data — *Accenture*  
-- Python for Data Analytics — *CodingWise*  
+you can verify my badges at: https://www.credly.com/users/aashi-here
+
 
 ---
 
-## 🏆 Leadership
+## 🏆 Extra-Curricular Activities
 **Lead – VR & Gaming Club (Educational Team), VIT Bhopal**  
-*Oct 2023 – Present*
+*Aug 2023 – Present*
+
+- Organized and managed 10+ gaming related educational Events.
+    1. ”Unreal Creations” Unreal Engine Workshop with Akash R.
+    2. ”Level Up” Unity Workshop with Aman Verma.
+- Spearheaded the organization of multiple game jams, attracting 100+ participants from diverse domains in collaboration with the Indian Game Developers’ Society 
+- Planned and executed seminars at VIT Bhopal, coordinating with industry experts, alumni mentors, and student teams to deliver pitching, mentorship, and jury presentations.
+- Held and evaluated 3 Game Jams under the club.
+
 
 ---
 
