@@ -85,6 +85,6 @@ you can verify my badges at: https://www.credly.com/users/aashi-here
 ---
 
 ## 📬 Let's Connect
-📧 **Email:** aashiguptaa2425@gmail.com  
+📧 **Email:** aashigupta.here@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/aashi-here/  
 💻 **GitHub:** https://github.com/Aashi09
