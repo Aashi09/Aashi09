@@ -27,11 +27,6 @@ I love transforming raw data into clear insights and building clean, structured 
 
 ## 📂 Projects
 
-### 📌 BeautifulSoup-Based Wikipedia Table Scraper
-*Jupyter Notebook, BeautifulSoup, Pandas*  
-- Scraped 500+ data cells from a Wikipedia table.  
-- Parsed 7+ column headers dynamically.  
-- Cleaned and structured the dataset into a final CSV.
 
 ### 📌 Tableau Data Dashboard & Insights Project
 *Tableau, CSV*  
@@ -44,6 +39,12 @@ I love transforming raw data into clear insights and building clean, structured 
 - Built a structured SQL-based data pipeline.  
 - Conducted detailed EDA to extract insights.  
 - Designed a BI dashboard for non-technical stakeholders.
+
+### 📌 BeautifulSoup-Based Wikipedia Table Scraper
+*Jupyter Notebook, BeautifulSoup, Pandas*  
+- Scraped 500+ data cells from a Wikipedia table.  
+- Parsed 7+ column headers dynamically.  
+- Cleaned and structured the dataset into a final CSV.
 
 ---
 
